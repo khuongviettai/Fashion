@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305399504556:android:2c130121792cbaaa244909",
+        "mobilesdk_app_id": "1:305399504556:android:19c3bcf8c8648ad2244909",
         "android_client_info": {
-          "package_name": "com.khuongviettai.fashion"
+          "package_name": "com.fashionstore.fashion"
         }
       },
       "oauth_client": [
         {
-          "client_id": "305399504556-e68ok4d5gi32kj5tb0p9cail27uo37co.apps.googleusercontent.com",
+          "client_id": "305399504556-p4jqe3cnms2m28nu2smanrdd7majr7ds.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.khuongviettai.fashion",
+            "package_name": "com.fashionstore.fashion",
             "certificate_hash": "96a14e77801c7f46175916bb63f27993c42faf99"
           }
         },

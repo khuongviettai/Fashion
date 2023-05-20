@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.khuongviettai.fashion'
+    namespace 'com.fashionstore.fashion'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.khuongviettai.fashion"
+        applicationId "com.fashionstore.fashion"
         minSdk 24
         targetSdk 33
         versionCode 1
